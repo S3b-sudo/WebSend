@@ -1,4 +1,4 @@
-# WebSend
+# 🌐 WebSend
 A Streamlit based application for sending files to other devices through a web browser.
 
 # ⚠️ IMPORTANT
@@ -26,4 +26,9 @@ Follow the Linux portion
 ## Run
 To run the project run `'./run.sh'` and click the link provided by Streamlit if it doesn't open automatically.
 
- 
+## Screenshots
+
+TODO
+
+## Notes
+This was the first actually useful web based tool i created (even if it is a streamlit project and not an actual website).
