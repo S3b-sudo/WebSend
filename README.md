@@ -25,10 +25,13 @@ Follow the Linux portion
 
 ## Run
 To run the project run `'./run.sh'` and click the link provided by Streamlit if it doesn't open automatically.
+ > If you get Permission denied. Run `'chmod +x run.sh'`
+
+ > If you can't connect by scanning the qr code or typing the Network URL, try running `'python firewall_mgr.py'`
 
 ## Screenshots
 
 TODO
 
 ## Notes
-This was the first actually useful web based tool i created (even if it is a streamlit project and not an actual website).
+This was the first actually useful web based tool i created (even if it is a Streamlit project and not an actual website).
