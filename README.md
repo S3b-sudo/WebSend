@@ -31,12 +31,15 @@ To run the project run `'./run.sh'` and click the link provided by Streamlit if 
 
 ## Screenshots
 ![Alt](Demo1.png)
+
 Navigation Bar
 
 ![Alt](Demo2.png)
+
 Upload Page
 
 ![Alt](Demo3.png)
+
 File creation options
 
 ## Notes
