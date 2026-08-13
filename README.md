@@ -30,8 +30,15 @@ To run the project run `'./run.sh'` and click the link provided by Streamlit if 
  > If you can't connect by scanning the qr code or typing the Network URL, try running `'python firewall_mgr.py'`
 
 ## Screenshots
+![Alt](Demo1.png)
+Navigation Bar
 
-TODO
+![Alt](Demo2.png)
+Upload Page
+
+![Alt](Demo3.png)
+File creation options
 
 ## Notes
 This was the first actually useful web based tool i created (even if it is a Streamlit project and not an actual website).
+For now, there is an upload limit because my computer has vary low storage. You can overwright it by adding `--server.maxUploadSize [MB]` to the run.sh file.
