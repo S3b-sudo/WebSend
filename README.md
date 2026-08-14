@@ -18,7 +18,9 @@ On Linux:
 On Windows:
 
 ¯\_(ツ)_/¯
-Maybe try WSL? 
+
+Technically, all you would have to do to get this to work on windows is create a folder named `shared_files` and launch it through the command line.
+If that doesnt work, maybe try WSL. 
 
 Run 'wsl --install' in powershell or google it if it changed.
 Follow the Linux portion
